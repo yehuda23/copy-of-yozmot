@@ -1,0 +1,11 @@
+/* CSS reference: https://www.wix.com/velo/reference/$w/styling-elements-with-css */
+ 
+/* These CSS styles will be applied globally to every page of this site. Write your CSS here, e.g.: */
+
+/*  Change button background color to red: */
+.repeater-box {
+    background-color: red;
+    color:black;
+    padding-left: 20px;
+    margin: 1px;
+}
